@@ -47,12 +47,12 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🔰Join Channel🔰", url="https://t.me/malluinstafollowers"),
+                    InlineKeyboardButton("Owner🕵️‍♂️", url="https://t.me/cinemaclubcc"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("🔰Join Group🔰", url="https://t.me/malluinstaufollowers"),
-                    InlineKeyboardButton("details about Group", url="https://t.me/Malluinstabot")
+                    InlineKeyboardButton("🏅Join Group", url="https://t.me/MMCINEMACHAKKU"),
+                    InlineKeyboardButton("Join Channel🔥", url="https://t.me/malayali00l")
                 ]
             ]
         )
@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/DarkDevil1265/Unlimited-filter-bot-RJ")
+                        "UPDATES CHANNEL📥", url="https://t.me/Cinema_Club_Post")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
